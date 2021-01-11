@@ -12,7 +12,7 @@ Here are the publications I have been co-authoring:
       *Ab Initio Computation of Charge Densities for Sn and Xe Isotopes*,
       [*Phys. Rev. Lett.* **125** 18, 182501](https://doi.org/10.1103/PhysRevLett.125.182501), [arXiv:2002.02214 \[nucl-th\]](https://arxiv.org/abs/2002.02214) (2020)
 
-2. P. Arthuis, J. Ripoche, A. Tichai and T. Duguet,
+2. P. Arthuis, A. Tichai, J. Ripoche, and T. Duguet,
       *ADG: Automated generation and evaluation of many-body diagrams II. Projected Bogoliubov many-body perturbation theory*,
       [*Comput. Phys. Comm.* in press](https://doi.org/10.1016/j.cpc.2020.107677), [arXiv:2007.01661 \[nucl-th\]](https://arxiv.org/abs/2007.01661) (2020)
 
