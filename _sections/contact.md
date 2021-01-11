@@ -1,7 +1,7 @@
 ---
 title: Where to find me online
 icon: fa-envelope
-order: 4
+order: 3
 ---
 
 ### Academic group pages
@@ -17,11 +17,11 @@ website of my formal institution, the
 
 ### Academic networks
 
-- [OrcID](https://orcid.org/0000-0002-7073-9340)
+[OrcID](https://orcid.org/0000-0002-7073-9340)
 
-- [Inspire](https://inspirehep.net/author/profile/P.Arthuis.2)
+[Inspire](https://inspirehep.net/author/profile/P.Arthuis.2)
 
-- [ResearchGate](https://www.researchgate.net/profile/Pierre_Arthuis)
+[ResearchGate](https://www.researchgate.net/profile/Pierre_Arthuis)
 
 ### Elsewhere
 
