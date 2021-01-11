@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pierre Arthuis
-subtitle:
+subtitle: Theoretical nuclear physics researcher
 description: >- # this means to ignore newlines until "baseurl:"
 author: Pierre Arthuis
 email: parthuis@theorie.ikp.physik.tu-darmstadt.de
