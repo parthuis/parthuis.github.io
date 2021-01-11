@@ -1,8 +1,10 @@
 ---
-title: About Me
+title: About me
 icon: fa-user
 order: 2
 ---
+
+![Picture of Pierre Arthuis](assets/images/Arthuis_home_landscape.jpg)
 
 After studying both versatile engineering at École Centrale de Nantes (France)
 and physics at Technische Universität Darmstadt (Germany), I prepared my PhD

@@ -18,7 +18,8 @@ website of my former institution, the
 ### Academic networks
 
 Have a look at my [OrcID](https://orcid.org/0000-0002-7073-9340),
-[Inspire](https://inspirehep.net/author/profile/P.Arthuis.2) and
+[Inspire](https://inspirehep.net/author/profile/P.Arthuis.2),
+[GoogleScholar](https://scholar.google.com/citations?user=hwgAtPAAAAAJ) and
 [ResearchGate](https://www.researchgate.net/profile/Pierre_Arthuis) pages.
 
 ### Elsewhere
