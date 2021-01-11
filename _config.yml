@@ -38,7 +38,7 @@ email: parthuis@theorie.ikp.physik.tu-darmstadt.de
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://parthuis.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://parthuis.github.io/" # the base hostname & protocol for your site
 
 # Social settings
