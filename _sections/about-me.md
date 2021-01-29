@@ -18,9 +18,20 @@ Darmstadt.
 
 My research focuses on developing ab initio many-body methods to study the
 structure of finite nuclei, both from a formal and a computational point of
-view. My previous work includes the development and first application of
+view. My previous works include the development and first application of
 [Bogoliubov Many-Body Perturbation Theory](https://tel.archives-ouvertes.fr/tel-01992165),
-a low-cost correlated method relying on the concept of symmetry breaking. As
-part of this work with diagrammatic methods, I am the maintainer of
+a low-cost correlated method relying on the concept of symmetry breaking.
+More recently, I worked on the extension towards heavier nuclei of
+Self-Consistent Green's Functions calculations, resulting in the first
+*ab initio* [study](https://doi.org/10.1103/PhysRevLett.125.182501) of charge
+radii and densities and neutron skins above the Sn isotopic line.
+
+In particular, one of my interest is the automatisation of the development
+process of many-body methods. When designing and implementing a new formalism,
+or pushing it towards higher precision, a lot of time is spent on long,
+error-prone handmande derivations and operations. This can be reduced by using
+the appropriate tools to let the computer take care of it.
+As part of this effort, I am the maintainer and main developer of
 [ADG](https://github.com/adgproject/adg/), an open-source Python package
-generating diagrams and expressions for several many-body methods.
+generating diagrams and expressions for several many-body methods. This work
+additionaly led to progress in our understanding of [many-body diagrammatics](https://doi.org/10.1016/j.cpc.2018.11.023).
