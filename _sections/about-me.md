@@ -29,7 +29,7 @@ radii and densities and neutron skins above the Sn isotopic line.
 In particular, one of my interest is the automatisation of the development
 process of many-body methods. When designing and implementing a new formalism,
 or pushing it towards higher precision, a lot of time is spent on long,
-error-prone handmande derivations and operations. This can be reduced by using
+error-prone hand-made derivations and operations. This can be reduced by using
 the appropriate tools to let the computer take care of it.
 As part of this effort, I am the maintainer and main developer of
 [ADG](https://github.com/adgproject/adg/), an open-source Python package
