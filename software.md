@@ -33,7 +33,7 @@ and the code documentation is available [online](https://adg.readthedocs.io/).
 
 Up to now, ADG has known three major releases associated to three articles,
 extending the set of supported formalisms to:
-  - [Bogoliubov Many-Body Perturbation Theory (BMBPT), as well as support for two-body Hartree-Fock MBPT](https://doi.org/10.1016/j.cpc.2018.11.023)
+  - [Bogoliubov Many-Body Perturbation Theory (BMBPT), as well as support for Hartree-Fock MBPT limited to two-body interaction](https://doi.org/10.1016/j.cpc.2018.11.023)
   - [Projected BMBPT](https://doi.org/10.1016/j.cpc.2020.107677)
   - [Bogoliubov In-Medium Similarity Renormalization Group (BIMSRG)](https://arxiv.org/abs/2102.10889)
 
