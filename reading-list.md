@@ -10,7 +10,7 @@ Here are the publications I have been co-authoring:
 
 1. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe and A. Schwenk,
       *Low-rank matrix decompositions for ab initio nuclear structure*,
-      [arXiv:2105.03935 \[nucl-th\]](https://arxiv.org/abs/2105.03935) (2021)
+      [*Phys. Lett. B* **821**, 136623](https://doi.org/10.1016/j.physletb.2021.136623), [arXiv:2105.03935 \[nucl-th\]](https://arxiv.org/abs/2105.03935) (2021)
 
 2. A. Tichai, P. Arthuis, H. Hergert, and T. Duguet,
       *ADG: Automated generation and evaluation of many-body diagrams III. Bogoliubov in-medium similarity renormalization group formalism*,
