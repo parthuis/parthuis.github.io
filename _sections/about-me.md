@@ -24,9 +24,11 @@ a low-cost correlated method relying on the concept of symmetry breaking.
 More recently, I worked on the extension towards heavier nuclei of
 Self-Consistent Green's Functions calculations, resulting in the first
 *ab initio* [study](https://doi.org/10.1103/PhysRevLett.125.182501) of charge
-radii and densities and neutron skins above the Sn isotopic line.
+radii and densities and neutron skins above the Sn isotopic line. Other efforts
+towards calculations of heavy nuclei include reducing the memory requirements
+for [storing matrix elements](https://doi.org/10.1016/j.physletb.2021.136623).
 
-In particular, one of my interest is the automatisation of the development
+In particular, one of my interests is the automatisation of the development
 process of many-body methods. When designing and implementing a new formalism,
 or pushing it towards higher precision, a lot of time is spent on long,
 error-prone hand-made derivations and operations. This can be reduced by using
@@ -34,4 +36,4 @@ the appropriate tools to let the computer take care of it.
 As part of this effort, I am the maintainer and main developer of
 [ADG](https://github.com/adgproject/adg/), an open-source Python package
 generating diagrams and expressions for several many-body methods. This work
-additionaly led to progress in our understanding of [many-body diagrammatics](https://doi.org/10.1016/j.cpc.2018.11.023).
+additionally led to progress in our understanding of [many-body diagrammatics](https://doi.org/10.1016/j.cpc.2018.11.023).
