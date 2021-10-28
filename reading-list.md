@@ -13,7 +13,7 @@ Here are the publications I have been co-authoring:
       [*Phys. Lett. B* **821**, 136623](https://doi.org/10.1016/j.physletb.2021.136623), [arXiv:2105.03935 \[nucl-th\]](https://arxiv.org/abs/2105.03935) (2021)
 
 2. A. Tichai, P. Arthuis, H. Hergert, and T. Duguet,
-      *ADG: Automated generation and evaluation of many-body diagrams III. Bogoliubov in-medium similarity renormalization group formalism*,
+      *ADG: Automated generation and evaluation of many-body diagrams III. Bogoliubov in-medium similarity renormalization group formalism*, [accepted in *Eur. Phys. J. A*], 
       [arXiv:2102.10889 \[nucl-th\]](https://arxiv.org/abs/2102.10889) (2021)
 
 3. P. Arthuis, A. Tichai, J. Ripoche, and T. Duguet,
