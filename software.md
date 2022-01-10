@@ -35,7 +35,7 @@ Up to now, ADG has known three major releases associated to three articles,
 extending the set of supported formalisms to:
   - [Bogoliubov Many-Body Perturbation Theory (BMBPT), as well as support for Hartree-Fock MBPT limited to two-body interaction](https://doi.org/10.1016/j.cpc.2018.11.023)
   - [Projected BMBPT](https://doi.org/10.1016/j.cpc.2020.107677)
-  - [Bogoliubov In-Medium Similarity Renormalization Group (BIMSRG)](https://arxiv.org/abs/2102.10889)
+  - [Bogoliubov In-Medium Similarity Renormalization Group (BIMSRG)](https://doi.org/10.1140/epja/s10050-021-00621-6)
 
 The goal is for ADG to be extended to other formalisms in the years to come,
 including support for Gorkov Self-Consistent Green's Function theory.
