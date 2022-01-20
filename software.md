@@ -38,4 +38,5 @@ extending the set of supported formalisms to:
   - [Bogoliubov In-Medium Similarity Renormalization Group (BIMSRG)](https://doi.org/10.1140/epja/s10050-021-00621-6)
 
 The goal is for ADG to be extended to other formalisms in the years to come,
-including support for Gorkov Self-Consistent Green's Function theory.
+including support for Gorkov Self-Consistent Green's Function theory, as well
+as support for three-body forces in MBPT.
