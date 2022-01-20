@@ -482,6 +482,10 @@
 		@include icon(before, brands);
 	}
 
+	.icon-a {
+		@include icon(before, academicon);
+	}
+
 /* Header */
 
 	#header {

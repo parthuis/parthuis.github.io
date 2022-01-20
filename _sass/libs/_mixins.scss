@@ -15,6 +15,9 @@
 		@if $style == brands {
 			font-family: "Font Awesome 5 Brands";
 		}
+		@else if $style == academicon {
+			font-family: "Academicons";
+		}
 		@else {
 			font-family: "Font Awesome 5 Free";
 		}
