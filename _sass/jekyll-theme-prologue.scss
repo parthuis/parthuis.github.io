@@ -975,6 +975,7 @@
 					&::before {
 						font-family: "Font Awesome 5 Free";
 						text-decoration: none;
+						text-rendering: optimizeLegibility;
 						font-style: normal;
 						font-weight: 900;
 						-webkit-font-smoothing: antialiased;
