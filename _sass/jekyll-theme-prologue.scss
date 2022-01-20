@@ -289,12 +289,6 @@
 
 	}
 
-	.portrait {
-		display: block;
-		max-width: 100%;
-		height: auto;
-	}
-
 /* List */
 
 	ul {
@@ -723,6 +717,12 @@
 
 			&.shade-four {
 				background-color: #e8edec;
+			}
+
+			&.portrait {
+				display: block;
+				max-width: 100%;
+				height: auto;
 			}
 		}
 	}
