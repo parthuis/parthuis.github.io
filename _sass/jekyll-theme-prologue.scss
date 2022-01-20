@@ -286,6 +286,11 @@
 				width: auto;
 			}
 		}
+
+		&.portrait {
+			max-width: 100%;
+  			height: auto;
+		}
 	}
 
 /* List */

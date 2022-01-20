@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-![Picture of Pierre Arthuis](assets/images/Arthuis_home_landscape.jpg)
+<img src="assets/images/Arthuis_home_landscape.jpg" alt="Picture of Pierre Arthuis" class="portrait"> 
 
 After studying both versatile engineering at École Centrale de Nantes (France)
 and physics at Technische Universität Darmstadt (Germany), I prepared my PhD
