@@ -287,10 +287,12 @@
 			}
 		}
 
-		&.portrait {
-			max-width: 100%;
-  			height: auto;
-		}
+	}
+
+	.portrait {
+		display: block;
+		max-width: 100%;
+		height: auto;
 	}
 
 /* List */
