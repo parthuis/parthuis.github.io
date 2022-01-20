@@ -30,6 +30,15 @@
   {%- if site.dribbble_url -%}
   <li><a href="{{- site.dribbble_url -}}" class="icon-b fa-dribbble"><span class="label">Dribbble</span></a></li>
   {%- endif -%}
+  {%- if site.researchgate_url -%}
+  <li><a href="{{- site.researchgate_url -}}" class="icon-b fa-researchgate"><span class="label">ResearchGate</span></a></li>
+  {%- endif -%}
+  {%- if site.orcid_url -%}
+  <li><a href="{{- site.orcid_url -}}" class="icon-b fa-orcid"><span class="label">OrcID</span></a></li>
+  {%- endif -%}
+  {%- if site.inspire_url -%}
+  <li><a href="{{- site.inspire_url -}}" class="icon-b fa-info-circle"><span class="label">InspireHEP</span></a></li>
+  {%- endif -%}
   {%- if site.email -%}
   <li><a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
