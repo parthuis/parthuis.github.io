@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-<img src="assets/images/Arthuis_home_landscape.jpg" alt="Picture of Pierre Arthuis" class="portrait"> 
+<img src="assets/images/Arthuis_home_landscape.jpg" alt="Picture of Pierre Arthuis" class="portrait">
 
 After studying both versatile engineering at École Centrale de Nantes (France)
 and physics at Technische Universität Darmstadt (Germany), I prepared my PhD
@@ -27,6 +27,8 @@ Self-Consistent Green's Functions calculations, resulting in the first
 radii and densities and neutron skins above the Sn isotopic line. Other efforts
 towards calculations of heavy nuclei include reducing the memory requirements
 for [storing matrix elements](https://doi.org/10.1016/j.physletb.2021.136623).
+My latest project included the development of [Monte Carlo methods](https://arxiv.org/abs/2203.16167)
+to tackle infinite matter with non-local interactions.
 
 In particular, one of my interests is the automatisation of the development
 process of many-body methods. When designing and implementing a new formalism,
