@@ -10,6 +10,7 @@ Here are the publications I have been co-authoring:
 
 1. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, A. Schwenk and L. Zurek
       *Least-square approach for singular value decompositions of scattering problems*,
+      [*Phys. Rev. C* **106**, 024320](https://doi.org/10.1103/PhysRevC.106.024320)
       [arXiv:2205.10087  \[nucl-th\]](https://arxiv.org/abs/2205.10087) (2022)
 
 2. P. Arthuis, C. Barbieri, F. Pederiva and A. Roggero,

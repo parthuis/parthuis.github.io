@@ -27,7 +27,7 @@ Self-Consistent Green's Functions calculations, resulting in the first
 radii and densities and neutron skins above the Sn isotopic line. Other efforts
 towards calculations of heavy nuclei include reducing the memory requirements
 for [storing matrix elements](https://doi.org/10.1016/j.physletb.2021.136623)
-and thus possibly [accelerating calculations](https://arxiv.org/abs/2205.10087).
+and thus possibly [accelerating calculations](https://doi.org/10.1103/PhysRevC.106.024320).
 My latest project included the development of [Monte Carlo methods](https://arxiv.org/abs/2203.16167)
 to tackle infinite matter with non-local interactions.
 
@@ -39,4 +39,5 @@ the appropriate tools to let the computer take care of it.
 As part of this effort, I am the maintainer and main developer of
 [ADG](https://github.com/adgproject/adg/), an open-source Python package
 generating diagrams and expressions for several many-body methods. This work
-additionally led to progress in our understanding of [many-body diagrammatics](https://doi.org/10.1016/j.cpc.2018.11.023).
+additionally led to progress in our understanding of [many-body diagrammatics](https://doi.org/10.1016/j.cpc.2018.11.023)
+as well as automated-tools-supported introduction of [new formalisms](https://doi.org/10.1140/epja/s10050-021-00621-6).
