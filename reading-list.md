@@ -14,7 +14,8 @@ Here are the publications I have been co-authoring:
       [arXiv:2205.10087  \[nucl-th\]](https://arxiv.org/abs/2205.10087) (2022)
 
 2. P. Arthuis, C. Barbieri, F. Pederiva and A. Roggero,
-      *Quantum Monte Carlo in Configuration Space with Three-Nucleon Forces*,
+      *Quantum Monte Carlo Calculations in Configuration Space with Three-Nucleon Forces*,
+      (accepted in *Phys. Rev. C*)
       [arXiv:2203.16167 \[nucl-th\]](https://arxiv.org/abs/2203.16167) (2022)
 
 3. A. Tichai, P. Arthuis, H. Hergert, and T. Duguet,
