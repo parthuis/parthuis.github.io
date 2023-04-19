@@ -27,8 +27,7 @@ Self-Consistent Green's Functions calculations, resulting in the first
 radii and densities and neutron skins above the Sn isotopic line. Other efforts
 towards calculations of heavy nuclei include reducing the memory requirements
 for [storing matrix elements](https://doi.org/10.1016/j.physletb.2021.136623)
-and thus possibly [accelerating calculations](https://doi.org/10.1103/PhysRevC.106.024320).
-My latest project included the development of [Monte Carlo methods](https://arxiv.org/abs/2203.16167)
+and thus possibly [accelerating calculations](https://doi.org/10.1103/PhysRevC.107.044303)
 to tackle infinite matter with non-local interactions.
 
 In particular, one of my interests is the automatisation of the development

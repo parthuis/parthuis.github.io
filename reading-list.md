@@ -8,15 +8,15 @@ order: 2
 
 Here are the publications I have been co-authoring:
 
-1. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, A. Schwenk and L. Zurek
-      *Least-square approach for singular value decompositions of scattering problems*,
-      [*Phys. Rev. C* **106**, 024320](https://doi.org/10.1103/PhysRevC.106.024320)
-      [arXiv:2205.10087  \[nucl-th\]](https://arxiv.org/abs/2205.10087) (2022)
-
-2. P. Arthuis, C. Barbieri, F. Pederiva and A. Roggero,
-      *Quantum Monte Carlo Calculations in Configuration Space with Three-Nucleon Forces*,
-      (accepted in *Phys. Rev. C*)
+1. P. Arthuis, C. Barbieri, F. Pederiva and A. Roggero,
+      *Quantum Monte Carlo calculations in configuration space with three-nucleon forces*,
+      [*Phys. Rev. C* **107**, 044303](https://doi.org/10.1103/PhysRevC.107.044303),
       [arXiv:2203.16167 \[nucl-th\]](https://arxiv.org/abs/2203.16167) (2022)
+
+2. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, A. Schwenk and L. Zurek
+      *Least-square approach for singular value decompositions of scattering problems*,
+      [*Phys. Rev. C* **106**, 024320](https://doi.org/10.1103/PhysRevC.106.024320),
+      [arXiv:2205.10087  \[nucl-th\]](https://arxiv.org/abs/2205.10087) (2022)
 
 3. A. Tichai, P. Arthuis, H. Hergert, and T. Duguet,
       *ADG: Automated generation and evaluation of many-body diagrams III. Bogoliubov in-medium similarity renormalization group formalism*,
