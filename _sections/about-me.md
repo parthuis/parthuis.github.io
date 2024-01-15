@@ -21,14 +21,26 @@ structure of finite nuclei, both from a formal and a computational point of
 view. My previous works include the development and first application of
 [Bogoliubov Many-Body Perturbation Theory](https://tel.archives-ouvertes.fr/tel-01992165),
 a low-cost correlated method relying on the concept of symmetry breaking.
-More recently, I worked on the extension towards heavier nuclei of
+After that, I worked on the extension towards heavier nuclei of
 Self-Consistent Green's Functions calculations, resulting in the first
 *ab initio* [study](https://doi.org/10.1103/PhysRevLett.125.182501) of charge
 radii and densities and neutron skins above the Sn isotopic line. Other efforts
 towards calculations of heavy nuclei include reducing the memory requirements
-for [storing matrix elements](https://doi.org/10.1016/j.physletb.2021.136623)
-and thus possibly [accelerating calculations](https://doi.org/10.1103/PhysRevC.107.044303)
+for storing matrix elements at the[two-body](https://doi.org/10.1016/j.physletb.2021.136623)
+and [three-body level](https://arxiv.org/abs/2307.15572)
+and thus possibly [accelerating calculations](https://doi.org/10.1103/PhysRevC.106.024320).
+I also worked on extending the handling of [three-body forces](https://doi.org/10.1103/PhysRevC.107.044303)
 to tackle infinite matter with non-local interactions.
+
+My [latest work](https://arxiv.org/abs/2401.06675) has been focused on developping new low-resolution
+interactions to predict bulk properties of nuclei. Such interactions based on chiral effective
+field theory present good convergence properties with respect to system size and many-body
+method expansion, which allows for accurate calculations at moderate cost.
+Our novel interactions proved able to reproduce ground-state energy and charge radius for systems
+ranging from Oxygen-16 to Lead-208. Additionally, we investigated neutron skins of neutron-rich
+nuclei, a quantity that links nuclear physics with astrophysics. Our results show an
+interesting sensitivity of this quantity to the nuclear interaction in very neutron-rich
+systems that will gradually become accessible in rare isotope beam facilities like FRIB, RIBF or FAIR.
 
 In particular, one of my interests is the automatisation of the development
 process of many-body methods. When designing and implementing a new formalism,
