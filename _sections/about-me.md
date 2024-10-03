@@ -12,9 +12,10 @@ within the Nuclear Physics Department of CEA Paris-Saclay, the French
 Alternative Energies and Atomic Energy Commission, working with Thomas Duguet
 and Jean-Paul Ébran. Right after obtaining my degree from Université
 Paris-Saclay in September 2018, I moved to University of Surrey (United Kingdom)
-to work within the Nuclear Theory Group with Carlo Barbieri. Since September
-2020, I have been a member of the STRONGINT group of Achim Schwenk at the TU
-Darmstadt.
+to work within the Nuclear Theory Group with Carlo Barbieri. From September
+2020, to 2024 I was a member of the STRONGINT group of Achim Schwenk at the TU
+Darmstadt. I recently joined the Laboratoire des Deux Infinis Irène Joliot-Curie
+(IJCLab) from CNRS in Orsay, France, as a Marie Skłodowska-Curie Fellow.
 
 My research focuses on developing ab initio many-body methods to study the
 structure of finite nuclei, both from a formal and a computational point of

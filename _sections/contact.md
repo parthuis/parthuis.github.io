@@ -8,11 +8,11 @@ order: 3
 
 My [personal page](https://theorie.ikp.physik.tu-darmstadt.de/strongint/people_arthuis.html)
 on the [STRONGINT group website](https://www.strongint.eu/) at the Technische
-Universität Darmstadt.
+Universität Darmstadt, my previous affiliation.
 
-My [personal page](https://www.surrey.ac.uk/people/pierre-arthuis) on the
+<!-- My [personal page](https://www.surrey.ac.uk/people/pierre-arthuis) on the
 website of my former institution, the
-[University of Surrey](https://www.surrey.ac.uk/department-physics).
+[University of Surrey](https://www.surrey.ac.uk/department-physics). -->
 
 
 ### Academic networks
