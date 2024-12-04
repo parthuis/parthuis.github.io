@@ -14,7 +14,6 @@ Universität Darmstadt, my previous affiliation.
 website of my former institution, the
 [University of Surrey](https://www.surrey.ac.uk/department-physics). -->
 
-
 ### Academic networks
 
 Have a look at my [OrcID](https://orcid.org/0000-0002-7073-9340),
