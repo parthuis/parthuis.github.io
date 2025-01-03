@@ -14,8 +14,8 @@ Here are the publications I have been co-authoring:
 
 2. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, T. Miyagi, A. Schwenk and L. Zurek,  
       *Randomized low-rank decompositions of nuclear three-body interactions*,  
-      [arXiv:2307.15572 \[nucl-th\]](https://arxiv.org/abs/2307.15572),
-      accepted in [*Phys. Rev. Research*](https://journals.aps.org/prresearch/accepted/8d07cY35U811098e74aa7e17711827b2f8aae9bae) (2024)
+      [*Phys. Rev. Research* **6**, 043331](https://doi.org/10.1103/PhysRevResearch.6.043331)
+      [arXiv:2307.15572 \[nucl-th\]](https://arxiv.org/abs/2307.15572) (2024)
 
 3. P. Arthuis, C. Barbieri, F. Pederiva and A. Roggero,  
       *Quantum Monte Carlo calculations in configuration space with three-nucleon forces*,  
