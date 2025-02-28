@@ -15,7 +15,8 @@ Paris-Saclay in September 2018, I moved to University of Surrey (United Kingdom)
 to work within the Nuclear Theory Group with Carlo Barbieri. From September
 2020, to 2024 I was a member of the STRONGINT group of Achim Schwenk at the TU
 Darmstadt. I recently joined the Laboratoire des Deux Infinis Irène Joliot-Curie
-(IJCLab) from CNRS in Orsay, France, as a Marie Skłodowska-Curie Fellow.
+(IJCLab) from CNRS in Orsay, France, as a Marie Skłodowska-Curie Fellow,
+and have been made staff researcher (Chargé de recherche) there in 2025.
 
 My research focuses on developing ab initio many-body methods to study the
 structure of finite nuclei, both from a formal and a computational point of

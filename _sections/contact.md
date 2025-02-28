@@ -6,6 +6,10 @@ order: 3
 
 ### Academic group pages
 
+The [group page](https://theorie.ijclab.in2p3.fr/) of the theoretical physics group at
+IJCLab in Orsay, as well as my contact informations on the
+[IN2P3 directory](https://annuaire.in2p3.fr/9652-13458/pierre-arthuis).
+
 My [personal page](https://theorie.ikp.physik.tu-darmstadt.de/strongint/people_arthuis.html)
 on the [STRONGINT group website](https://www.strongint.eu/) at the Technische
 Universität Darmstadt, my previous affiliation.
@@ -24,5 +28,5 @@ Have a look at my [OrcID](https://orcid.org/0000-0002-7073-9340),
 ### Elsewhere
 
 You can find my [GitHub](https://github.com/parthuis) and
-[Twitter](https://twitter.com/ArthuisPierre) pages as well as my email in the
+[LinkedIn](https://www.linkedin.com/in/pierre-arthuis/) pages as well as my email in the
 sidebar!
