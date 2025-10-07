@@ -10,6 +10,7 @@ Here are the publications I have been co-authoring:
 
 1. B. T. Reed, M. Heinz, P. Arthuis, A. Schwenk, I. Tews,  
       *Connecting Relativistic Density Functional Theory to Microscopic Calculations*,  
+      [*Phys. Rev. C* **112**, 034331](https://doi.org/10.1103/xx34-3p5q),
       [arXiv:2505.00828 \[nucl-th\]](https://arxiv.org/abs/2505.00828) (2025)
 
 2. P. Arthuis, K. Hebeler and A. Schwenk,  
