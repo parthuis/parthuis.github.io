@@ -8,7 +8,7 @@ order: 2
 
 Here are the publications I have been co-authoring:
 
-1. Alex Brinson, Brooke Rickey, Pierre Arthuis, Antoine Belley, Scott Campbell, *et al.*,  
+1. A. Brinson, B. Rickey, P. Arthuis, A. Belley, S. Campbell, X. Chen, A. Dockery, S. Elhatisari, *et al.*,  
       *Nuclear charge radii of aluminium isotopes at the proton drip line*,  
       [arXiv:2605.09139 \[nucl-th\]](https://arxiv.org/abs/2605.09139) (2026)
 
