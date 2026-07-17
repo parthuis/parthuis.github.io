@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-<img src="assets/images/Arthuis_home_landscape.jpg" alt="Picture of Pierre Arthuis" class="portrait">
+![Picture of Pierre Arthuis](assets/images/Arthuis_home_landscape.jpg)
 
 I am a low-energy nuclear theory staff researcher (*Chargé de Recherche*) at
 the [Laboratoire de Physique des Deux Infinis Irène Joliot-Curie (IJCLab)](https://www.ijclab.in2p3.fr/en/home/)
