@@ -12,7 +12,7 @@ For nuclear structure and the description of relatively stable atomic nuclei, ab
 
 We will use the present page to advertise the main achievements of this scientific projects over the next few years.
 
-<img src="assets/images/EN_FundedbytheEU_RGB_NEG.png" alt="Funded by the EU" style="max-width: 100%; height: auto;">
+<img src="assets/images/EN_FundedbytheEU_RGB_POS.png" alt="Funded by the EU" style="max-width: 50%; height: auto;">
 
 This work was supported by the European Union under the Marie Skłodowska-Curie grant agreement No.~101152722.
 Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA).
