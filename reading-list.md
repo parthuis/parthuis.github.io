@@ -16,19 +16,20 @@ Here are the publications I have been co-authoring:
       *Many-body perturbation theory for the nuclear equation of state up to fifth order*,  
       [arXiv:2603.24532 \[nucl-th\]](https://arxiv.org/abs/2603.24532) (2026)
 
-3. Y. Hijikata, J. Zenihiro, S. Terashima, Y. Matsuda, H. Sakaguchi, P. Arthuis, T. Miyagi, S. Ota, *et al.*,  
+3. P. Arthuis, K. Hebeler and A. Schwenk,  
+      *Neutron-rich nuclei and neutron skins from chiral low-resolution interactions*,  
+      [*Eur. Phys. J. A* **62**, 156](https://doi.org/10.1140/epja/s10050-026-01905-5),
+      [arXiv:2401.06675 \[nucl-th\]](https://arxiv.org/abs/2401.06675) (2026)
+
+4. Y. Hijikata, J. Zenihiro, S. Terashima, Y. Matsuda, H. Sakaguchi, P. Arthuis, T. Miyagi, S. Ota, *et al.*,  
       *First Extraction of the Matter Radius of ¹³²Sn via Proton Elastic Scattering at 200 MeV/nucleon*,  
       [*Prog. Theor. Exp. Phys.* **2026**, 013D02](https://doi.org/10.1093/ptep/ptaf182),
       [arXiv:2602.08455 \[nucl-th\]](https://arxiv.org/abs/2602.08455) (2026)
 
-4. B. T. Reed, M. Heinz, P. Arthuis, A. Schwenk, I. Tews,  
+5. B. T. Reed, M. Heinz, P. Arthuis, A. Schwenk, I. Tews,  
       *Connecting Relativistic Density Functional Theory to Microscopic Calculations*,  
       [*Phys. Rev. C* **112**, 034331](https://doi.org/10.1103/xx34-3p5q),
       [arXiv:2505.00828 \[nucl-th\]](https://arxiv.org/abs/2505.00828) (2025)
-
-5. P. Arthuis, K. Hebeler and A. Schwenk,  
-      *Neutron-rich nuclei and neutron skins from chiral low-resolution interactions*,  
-      [arXiv:2401.06675 \[nucl-th\]](https://arxiv.org/abs/2401.06675) (2024)
 
 6. A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, T. Miyagi, A. Schwenk and L. Zurek,  
       *Randomized low-rank decompositions of nuclear three-body interactions*,  
