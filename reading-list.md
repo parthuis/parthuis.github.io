@@ -14,6 +14,7 @@ Here are the publications I have been co-authoring:
 
 2. C. Drischler, K.S. McElvain, P. Arthuis,  
       *Many-body perturbation theory for the nuclear equation of state up to fifth order*,  
+      [*Phys. Rev. C* **114**, 034326](https://doi.org/10.1103/8fr2-cyf5),
       [arXiv:2603.24532 \[nucl-th\]](https://arxiv.org/abs/2603.24532) (2026)
 
 3. P. Arthuis, K. Hebeler and A. Schwenk,  
